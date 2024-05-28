@@ -1,0 +1,5 @@
+1.Preencha um vetor de 5 posições e mostre a média dos valores preenchidos no vetor.
+2.Preencha um vetor de 5 posições e mostre o maior e o menor valor.
+3.Preencha um vetor de 5 posições e mostre a tabuada de cada valor do vetor.
+4.Preencha 2 vetores A e B com 5 posições cada. Mostre o vetor C preenchido com a soma de cada elemento de A e B. C = A + B
+5.Preencha 2 vetores A e B com 5 posições cada. Mostre o vetor C preenchido com o maior valor de cada elemento de A e B. C = maior entre A e B
